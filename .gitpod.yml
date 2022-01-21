@@ -63,3 +63,9 @@ ports:
 vscode:
   extensions:
     - dart-code.flutter
+
+github:
+  prebuilds:
+    master: true
+    brances: true
+    pullRequests: true
